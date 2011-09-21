@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fast89FM</string>
+    <string name="main_screen">MainScreen</string>
+    <string name="splash_screen">SplashScreen</string>
+    <string name="loading">Carregando..</string>
+    <string name="player">RadioFM</string>
+</resources>

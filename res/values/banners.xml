@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="links">
+        <item></item>
+        <item>market://details?id=br.com.jera.vikings</item>
+    </string-array>
+</resources>

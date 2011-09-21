@@ -1,0 +1,21 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated GUI files
+R.java
+
+data.properties
+data.cpp
+
+.settings
+<<<<<<< HEAD
+obj/
+=======
+>>>>>>> 1954d1754f65968871b72dfa435e295567d0b022
